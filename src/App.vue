@@ -48,6 +48,7 @@
   import 'firebase/firestore'
   // Initialize Firebase
   var config = {
+
     // Deleted API Key
     apiKey: "",
     authDomain: "project-2617023420537022569.firebaseapp.com",
